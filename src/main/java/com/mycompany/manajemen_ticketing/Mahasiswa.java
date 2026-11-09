@@ -37,3 +37,5 @@ public class Mahasiswa extends Pengguna {
         System.out.println("Program Studi  : " + programStudi);
     }
 }
+
+//tes

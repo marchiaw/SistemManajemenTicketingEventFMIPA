@@ -53,3 +53,5 @@ public class Acara {
         System.out.println("Total Pendaftar: " + daftarPeserta.size() + "/" + kuotaMax);
     }
 }
+
+//tes

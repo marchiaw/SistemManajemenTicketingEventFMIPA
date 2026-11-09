@@ -15,3 +15,5 @@ public class Panitia extends Pengguna {
         System.out.println("Jabatan      : " + jabatanOrganisasi);
     }
 }
+
+//tes
